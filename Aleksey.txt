@@ -1,2 +1,3 @@
 first string
 some changes important
+add new string
